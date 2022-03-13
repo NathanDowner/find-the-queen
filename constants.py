@@ -1,0 +1,3 @@
+ENCODING_SCHEME = 'utf-8'
+HOST = ''
+PORT = 7621
